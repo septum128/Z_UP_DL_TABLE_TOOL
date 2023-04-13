@@ -4,7 +4,7 @@
 * 機能内容     : テーブルの汎用DL/ULツール
 * 注意事項     :
 ************************************************************************
-REPORT /SH3/CAJX001010
+REPORT Z_UP_DL_TABLE_TOOL
   NO STANDARD PAGE HEADING
   MESSAGE-ID 00
   LINE-SIZE 170.
